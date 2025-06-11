@@ -13,7 +13,7 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-    async function CHRIS_XD_PAIR_CODE() {
+    async function MUSHAqiBKA-MD-PAIR-CODE() {
         const {
             state,
             saveCreds
@@ -77,9 +77,9 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "chris~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, CHRISM-XD User!* 👋🏻
+                        let desc = `*Hey there, MUSHAqiBKA-MD User!* 👋🏻
 
-Thanks for using *CHRISM-XD* — your session has been successfully created!
+Thanks for using *MUSHAqiBKA-MD* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -87,24 +87,24 @@ Thanks for using *CHRISM-XD* — your session has been successfully created!
 ——————
 
 *✅ Stay Updated:*  
-Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t
-
+Join our official WhatsApp GROUP:  
+https://chat.whatsapp.com/BivqCxXWVLGGJ5ayKeoL1x
+ 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/Xchristech/CHRISM-XD
+https://github.com/mushaqibkabot/MUSHAqiBKA-MD
 
 ——————
 
-> *© Powered by Chris Gaaju*
+> *© Powered by ⟹P͙R͙A͜͡  𝗜M͙E⥃MUشAq!بKA*
 Stay cool and hack smart. ✌🏻`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
-thumbnailUrl: "https://files.catbox.moe/g72e6z.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t",
+title: "MUSHAqiBKA-MD",
+thumbnailUrl: "https://chat.whatsapp.com/BivqCxXWVLGGJ5ayKeoL1x",
+sourceUrl: "https://files.catbox.moe/umlwnw.mp4",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -115,7 +115,7 @@ renderLargerThumbnail: true
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
                             let desc = `Hey there, CHRISM-XD User!* 👋🏻
 
-Thanks for using *CHRISM-XD* — your session has been successfully created!
+Thanks for using *MUSHAqiBKA-MD* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -123,24 +123,24 @@ Thanks for using *CHRISM-XD* — your session has been successfully created!
 ——————
 
 *✅ Stay Updated:*  
-Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t
+Join our official WhatsApp GROUP:  
+https://chat.whatsapp.com/BivqCxXWVLGGJ5ayKeoL1x
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/Xchristech/CHRISM-XD
+https://github.com/mushaqibkabot/MUSHAqiBKA-MD
 
 ——————
 
-> *© Powered by Chris Gaaju*
+> *© Powered by ⟹P͙R͙A͜͡  𝗜M͙E⥃MUشAq!بKA *
 Stay cool and hack smart. ✌🏻`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
-thumbnailUrl: "https://files.catbox.moe/g72e6z.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t",
+title: "MUSHAqiBKA-MD",
+thumbnailUrl: "https://files.catbox.moe/umlwnw.mp4",
+sourceUrl: "https://chat.whatsapp.com/BivqCxXWVLGGJ5ayKeoL1x",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
@@ -157,7 +157,7 @@ showAdAttribution: true
                     process.exit();
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10);
-                    CHRISM_XD_PAIR_CODE();
+                    MUSHAqiBKA-MD-PAIR-CODE();
                 }
             });
         } catch (err) {
@@ -168,7 +168,7 @@ showAdAttribution: true
             }
         }
     }
-   return await CHRIS_XD_PAIR_CODE();
+   return await MUSHAqiBKA-MD-PAIR-CODE();
 });/*
 setInterval(() => {
     console.log("☘️ 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...");
